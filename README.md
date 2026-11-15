@@ -30,7 +30,7 @@ An experimental project that turns a paper or cardboard wheel into a controller 
 
 <sub>Early prototype: real-device and game compatibility testing is still in progress.</sub>
 
-![Profile view counter](https://komarev.com/ghpvc/?username=N4mitNotFound&color=blue&style=for-the-badge&label=PROFILE+VIEWS)   
+![Profile view counter](https://komarev.com/ghpvc/?username=namitchougale&color=blue&style=for-the-badge&label=PROFILE+VIEWS)   
 
 ### `03` &nbsp; MY TOOLKIT
 
@@ -55,9 +55,9 @@ I'm at the beginning of the journey. This profile is where I share what I build 
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=N4mitNotFound&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=N4mitNotFound&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=N4mitNotFound&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=namitchougale&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=namitchougale&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=namitchougale&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TGve4y4NXV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/namit_chougale/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BO9I9igkAT22ADbyR2%2F6f1w%3D%3D)
 
